@@ -1,0 +1,7 @@
+
+THis is the file in dev2 file
+
+THis is the file in dev1 file and edited here
+this is the line aded in dev2 branch
+
+Line added during pull request
