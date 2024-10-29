@@ -1,2 +1,3 @@
 New line to the file
 Adding new line for commit
+New commit
